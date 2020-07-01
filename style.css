@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.heading{
+    font-size: x-large;
+    font-weight: 600;
+    margin: 20px;
+    margin-bottom: 50px;
+    color: grey
+}
+.mic{
+    margin: 20px;
+    height: 10em;
+    width: 100%;
+}
+.content{
+    border: 5px solid blue;
+    padding: 20px;
+}
+
+.speak-btn{
+    text-align: center;
+    margin: 20px;
+}
+.sub-heading{
+    font-style: italic;
+    font-size: medium;
+    font-weight: 500;
+}
