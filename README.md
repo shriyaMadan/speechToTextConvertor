@@ -1,9 +1,6 @@
 # speechToTextConvertor
 This will convert your speech in textual form.
-
-It uses speechRecognition API.
-
-This is built using javascript.
+This is built using javascript. It uses speechRecognition API. 
 
 You can copy the text once it is converted. 
 
